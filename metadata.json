@@ -1,0 +1,6 @@
+{
+  "name": "UUPL Form Manager",
+  "description": "Expiry product withdrawal form management system with automated scanning, dynamic PDF preview, progress metrics and local storage for pharmacy/chemist representatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
